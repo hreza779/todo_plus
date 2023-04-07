@@ -1,3 +1,3 @@
 # todo_plus
 
-Simple Todo Project
+Simple Todo Project with Flutter
